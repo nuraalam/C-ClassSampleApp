@@ -1,0 +1,6 @@
+C:\Users\PC21\Desktop\19 Sep 2014\oopfirst class\SallarCalculatorApp\SallarCalculatorApp\obj\Debug\SallarCalculatorApp.SalaryCalculatorUI.resources
+C:\Users\PC21\Desktop\19 Sep 2014\oopfirst class\SallarCalculatorApp\SallarCalculatorApp\obj\Debug\SallarCalculatorApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\19 Sep 2014\oopfirst class\SallarCalculatorApp\SallarCalculatorApp\bin\Debug\SallarCalculatorApp.exe
+C:\Users\PC21\Desktop\19 Sep 2014\oopfirst class\SallarCalculatorApp\SallarCalculatorApp\bin\Debug\SallarCalculatorApp.pdb
+C:\Users\PC21\Desktop\19 Sep 2014\oopfirst class\SallarCalculatorApp\SallarCalculatorApp\obj\Debug\SallarCalculatorApp.exe
+C:\Users\PC21\Desktop\19 Sep 2014\oopfirst class\SallarCalculatorApp\SallarCalculatorApp\obj\Debug\SallarCalculatorApp.pdb
