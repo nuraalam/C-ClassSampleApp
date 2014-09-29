@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\RverseApp\Refrigerator Management App\Refrigerator Management App\bin\Debug\Refrigerator Management App.exe.config
+C:\Users\Hafiz\Desktop\RverseApp\Refrigerator Management App\Refrigerator Management App\bin\Debug\Refrigerator Management App.exe
+C:\Users\Hafiz\Desktop\RverseApp\Refrigerator Management App\Refrigerator Management App\bin\Debug\Refrigerator Management App.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Refrigerator Management App\Refrigerator Management App\obj\Debug\Refrigerator_Management_App.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\RverseApp\Refrigerator Management App\Refrigerator Management App\obj\Debug\Refrigerator Management App.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\RverseApp\Refrigerator Management App\Refrigerator Management App\obj\Debug\Refrigerator Management App.exe
+C:\Users\Hafiz\Desktop\RverseApp\Refrigerator Management App\Refrigerator Management App\obj\Debug\Refrigerator Management App.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Refrigerator Management App\Refrigerator Management App\obj\Debug\Refrigerator_Management_App.RefrigeratorManagementAppUI.resources
